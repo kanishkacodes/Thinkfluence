@@ -1,11 +1,10 @@
-'use client'
+"use client";
 import React from "react";
 import Image from "next/image";
 import Link from "next/link";
 
 function Footer() {
   return (
-   
     <div id="support" className="footer bg-black text-white py-12 lg:py-16 ">
       {/* Main div */}
       <div className="container mx-auto lg:px-0 px-4 flex flex-col lg:flex-row justify-between">
@@ -22,8 +21,11 @@ function Footer() {
           </div>
           {/* Company name and address */}
           <div className="mb-8 lg:mb-12">
-            <h2 className="text-lg font-bold mb-2">Thinkfluence</h2>
-            <p>Address goes here</p>
+            {/* <h2 className="text-lg font-bold mb-2">Thinkfluence</h2> */}
+            <p>
+              Service Road, 2nd Floor, DVK Spaces, 13th Cross, Dr Puneeth
+              Rajkumar Rd, 6th Sector, HSR Layout, Bengaluru, Karnataka 560102
+            </p>
           </div>
           {/* Social media icons */}
           <div className="flex space-x-8">
@@ -76,25 +78,24 @@ function Footer() {
         </div>
         {/* 2nd div */}
         <div className="flex-1 mb-8 lg:mb-0 md:ml-72 lg:pr-8">
-  {/* Quick links */}
-  
-</div>
-
+          {/* Quick links */}
+        </div>
 
         {/* 3rd div */}
         <div className="flex-1 lg:ml-4 lg:text-right">
           {/* Business Enquiries */}
           <div className="mb-8 lg:mb-12">
             <h2 className="text-lg font-bold mb-2">Business Enquiries</h2>
-            <Link href="mailto:business@example.com">business@example.com</Link>
+            <Link href="mailto:info@thinkfluence.co.in">
+              info@thinkfluence.co.in
+            </Link>
           </div>
           {/* Support */}
-          
         </div>
       </div>
 
       {/* Copyright */}
-     
+
       <div className="text-xs text-center  mt-8 mb-0">
         © 2024 Thinkfluence || All Rights Reserved
       </div>
