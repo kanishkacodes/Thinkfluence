@@ -3,20 +3,20 @@ import React from 'react';
 // Array of objects containing heading and paragraph data
 const cardData = [
   {
-    heading: 'Improve Business',
-    paragraph: 'We believe in continuously refining and optimizing business processes to drive efficiency and effectiveness. Through meticulous analysis and strategic interventions, we help businesses unlock their full potential and achieve sustainable growth.'
+    heading: 'Tailored Expertise',
+    paragraph: 'Thinkfluence stands out as a premier consultancy firm solely dedicated to the hospitality domain. Our specialized focus allows us to offer bespoke solutions finely tuned to the unique challenges and opportunities within the industry.'
   },
   {
-    heading: 'Enhance Bottomline',
-    paragraph: 'Our focus extends beyond revenue generation to maximizing profitability. By implementing innovative cost-saving measures, streamlining operations, and identifying revenue-generating opportunities, we strive to bolster the bottom line of our clients ventures.'
+    heading: 'Seamless Integration',
+    paragraph: "As an extension of Explorex, India's leading full-stack OS for restaurant management, Thinkfluence offers a seamless integration of cutting-edge technology and strategic consultancy. This synergy empowers businesses to efficiently manage operations while maximizing revenue generation."
   },
   {
-    heading: 'Engagement',
-    paragraph: 'Central to our approach is fostering meaningful connections with customers. Through personalized experiences, targeted marketing strategies, and leveraging data insights, we aim to deepen customer relationships, increase loyalty, and drive repeat business.'
+    heading: 'ROI-Driven Approach',
+    paragraph: "At Thinkfluence, we specialize in performance marketing strategies that deliver tangible results. By focusing on generating a higher return on investment (ROI) for our clients' marketing spend, we help businesses achieve greater profitability and sustainable growth."
   },
   {
-    heading: 'Innovate',
-    paragraph: 'Innovation is at the heart of everything we do. We embrace creativity, experimentation, and forward-thinking solutions to stay ahead in the ever-evolving hospitality landscape. By pushing boundaries and challenging conventions, we empower our clients to stand out, adapt, and thrive in a competitive market.'
+    heading: 'Experience Crafting',
+    paragraph: "Beyond marketing and operations optimization, Thinkfluence is committed to crafting unforgettable experiences for both businesses and their customers. By infusing creativity and innovation into every aspect of hospitality, we elevate brand perception and foster long-lasting customer loyalty."
   }
 ];
 

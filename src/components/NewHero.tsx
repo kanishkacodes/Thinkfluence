@@ -30,9 +30,9 @@ function HeroSection() {
             />
           </div>
           <div className="p-4 relative z-10 w-full text-center md:pt-32">
-            <h1 className="mt-4 md:mt-2 text-base md:text-2xl font-bold bg-clip-text text-cyan">
+            <h1 className="mt-4 md:mt-2 text-base md:text-xl font-bold bg-clip-text text-cyan">
               <div className="px-4 md:px-20">
-              Thinkfluence is a leading consultancy firm exclusively dedicated to the hospitality industry
+              Where Hospitality meets Expertise
               </div>
             </h1>
           </div>
