@@ -11,7 +11,7 @@ function Footer() {
         {/* 1st div */}
         <div className="flex-1 lg:mr-4 mb-8 lg:mb-0 lg:pr-8">
           {/* Logo */}
-          <div className="mb-8 lg:mb-12  sm:w-48 sm:h-48 md:w-auto md:h-auto">
+          <div className="mb-4 lg:mb-4  sm:w-48 sm:h-48 md:w-auto md:h-auto">
             <Image
               src="/thinkfluecewhite.png"
               alt="Logo"
@@ -28,7 +28,7 @@ function Footer() {
             </p>
           </div>
           {/* Social media icons */}
-          <div className="flex space-x-8">
+          <div className="flex space-x-4">
             <Link href="/">
               <Image
                 src="/facebook.png"
@@ -38,7 +38,7 @@ function Footer() {
                 className="hover:text-gray-500"
               />
             </Link>
-            <Link href="/">
+            {/* <Link href="/">
               <Image
                 src="/youtube.png"
                 alt="YouTube"
@@ -46,7 +46,7 @@ function Footer() {
                 height={24}
                 className="hover:text-gray-500"
               />
-            </Link>
+            </Link> */}
             <Link href="https://www.instagram.com/thinkfluence.byexplorex/">
               <Image
                 src="/instagram.png"
@@ -56,7 +56,7 @@ function Footer() {
                 className="hover:text-gray-500"
               />
             </Link>
-            <Link href="/">
+            {/* <Link href="/">
               <Image
                 src="/twitter.png"
                 alt="Twitter"
@@ -64,8 +64,8 @@ function Footer() {
                 height={24}
                 className="hover:text-gray-500"
               />
-            </Link>
-            <Link href="/">
+            </Link> */}
+            {/* <Link href="/">
               <Image
                 src="/linkedin.png"
                 alt="LinkedIn"
@@ -73,7 +73,7 @@ function Footer() {
                 height={24}
                 className="hover:text-gray-500"
               />
-            </Link>
+            </Link> */}
           </div>
         </div>
         {/* 2nd div */}
