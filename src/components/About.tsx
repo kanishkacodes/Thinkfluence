@@ -2,7 +2,7 @@
 import React from "react";
 
 const stats = [
-  { name: "Clients", value: "120" },
+  { name: "Clients", value: "100+" },
   { name: "Projects Completed", value: "230" },
   { name: "Team Members", value: "15" },
   { name: "Years in Business", value: "10" },
@@ -48,7 +48,8 @@ const About = () => (
         <p className="mt-6 text-lg leading-8 text-gray-300 text-center sm:ml-20 sm:mr-20 md:ml-0 md:mr-0">
           {" "}
           {/* Justify the paragraph text */}
-          <span>Thinkfluence is a premier bespoke consultancy firm focusing only in
+          <span>
+          Thinkfluence is a premier bespoke consultancy firm focusing only in
           the Hospitality domain. We are an extension of Explorex, which is
           India&apos;s leading full stack OS which helps in managing your restaurant
           more efficiently thereby helping you generate more revenue. We
