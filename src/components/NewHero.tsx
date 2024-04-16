@@ -1,7 +1,9 @@
 import React from "react";
 import Image from "next/image";
 import Link from "next/link";
-import { SparklesCore } from "./ui/Sparkles.tsx";
+import { SparklesCore } from "./ui/sparkles";
+
+
 
 function HeroSection() {
   return (
