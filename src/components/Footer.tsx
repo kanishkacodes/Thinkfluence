@@ -29,7 +29,7 @@ function Footer() {
           </div>
           {/* Social media icons */}
           <div className="flex space-x-4">
-            <Link href="https://www.instagram.com/thinkfluence.byexplorex/">
+            <Link href="https://www.facebook.com/profile.php?id=61557601275175">
               <Image
                 src="/facebook.png"
                 alt="Facebook"
