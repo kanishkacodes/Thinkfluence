@@ -12,12 +12,13 @@ function HeroSection() {
         <SparklesCore
           id="tsparticlesfullpage"
           background="transparent"
-          minSize={0.6}
+          minSize={0.6}    //#ddaaff
           maxSize={1.4}
           particleDensity={150}
           className="w-full h-full"
           particleColor="#ddaaff"
         />
+        
       </div>
       <div className="w-full h-screen flex flex-col justify-center items-center">
         <div className="flex-grow flex flex-col justify-center items-center">
