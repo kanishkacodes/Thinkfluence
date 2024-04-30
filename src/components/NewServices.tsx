@@ -56,15 +56,16 @@ function NewServices() {
 ];
 
 
-  
+
 
   return (
  <><div id="services" className='bg-grid-small-white/[0.2]'>
  <h2 className="md:text-3xl text-2xl font-bold text-center mb-8 z-10 pt-20">Services</h2>
-<div className="grid grid-cols-1 md:grid-cols-5 gap-7 p-5 md:pl-7 md:pr-7 pb-10 ">
+<div className="grid grid-cols-1 md:grid-cols-5 gap-7 p-5 md:pl-7 md:pr-7 pb-10 "> 
+
   {data.map((service, index) => (
     <div key={index} className=" bg-slate-700 bg-opacity-30 rounded-lg overflow-hidden shadow-md hover:bg-slate-900">
-      <div className="relative grid grid-cols-1  pl-24 md:pl-20  items-center mt-3 ">
+      <div className="relative grid grid-cols-1 pl-24 md:pl-20  items-center mt-3 ">
         <Image
           src={service.imageUrl}
           alt={service.heading}
