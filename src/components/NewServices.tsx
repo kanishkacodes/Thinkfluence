@@ -64,7 +64,7 @@ function NewServices() {
 <div className="grid grid-cols-1 md:grid-cols-5 gap-7 p-5 md:pl-7 md:pr-7 pb-10 ">
   {data.map((service, index) => (
     <div key={index} className=" bg-slate-700 bg-opacity-30 rounded-lg overflow-hidden shadow-md hover:bg-slate-900">
-      <div className="relative grid grid-cols-1 mr-2 pl-24 md:pl-20  items-center mt-3 ">
+      <div className="relative grid grid-cols-1  pl-24 md:pl-20  items-center mt-3 ">
         <Image
           src={service.imageUrl}
           alt={service.heading}
