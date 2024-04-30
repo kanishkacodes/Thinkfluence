@@ -5,45 +5,56 @@ function NewServices() {
   const data = [
     {
       imageUrl: "/statistics.png",
-      heading: "Concept to Brick & Mortar",
-      paragraph: "From ideation to execution, we guide you through every step of bringing your hospitality concept to life. Our expert team ensures seamless transition from vision to reality, providing unparalleled support and expertise."
+      heading: "Social Media Management",
+      paragraph: "Enhance your online presence with our expert social media management services. We create compelling content, engage with your audience, and build a loyal community around your brand across various social media platforms."
     },
     {
       imageUrl: "/dinnerware.png",
-      heading: "Menu Planning & Costing",
-      paragraph: "Crafting a menu that delights customers while maintaining profitability is crucial. Our menu planning and costing services help you strike the perfect balance, ensuring culinary excellence and financial viability."
+      heading: "Social Media Marketing",
+      paragraph: "Elevate your brand visibility and engagement with our strategic social media marketing solutions. We craft tailored campaigns to attract your target audience, drive traffic, and generate leads, ultimately boosting your brand's online influence and sales."
     },
     {
       imageUrl: "/strategy-development.png",
-      heading: "Marketing & Strategy Creation",
-      paragraph: "Stand out in a crowded market with our strategic marketing solutions. We develop tailored strategies to elevate your brand, attract customers, and drive business growth through innovative marketing campaigns."
+      heading: "Performance Marketing",
+      paragraph: "Maximize your return on investment (ROI) with our specialized performance marketing strategies. We focus on delivering measurable results, efficiently allocating your marketing budget to achieve higher conversions and revenue growth."
     },
     {
       imageUrl: "/management.png",
-      heading: "Operations & Management",
-      paragraph: "Smooth and efficient operations are the backbone of any successful hospitality venture. Our operations and management services optimize workflows, enhance efficiency, and elevate service standards to exceed customer expectations."
+      heading: "Website Building",
+      paragraph: "Establish a strong online presence with our professional website building services. We design and develop user-friendly, visually appealing websites tailored to your brand identity, ensuring seamless navigation and engaging user experience."
     },
     {
       imageUrl: "/job-seeker.png",
-      heading: "Recruitment Services",
-      paragraph: "Build a winning team with our recruitment services. We source top talent, conduct thorough assessments, and facilitate seamless onboarding to ensure your staff embodies your brand values and delivers exceptional service."
+      heading: "Brand Building",
+      paragraph: "Strengthen your brand identity and perception with our comprehensive brand building services. From crafting compelling brand stories to implementing cohesive brand strategies, we help you connect with your audience on a deeper level and stand out in the market."
     },
     {
       imageUrl: "/social-media.png",
-      heading: "Social Media Management",
-      paragraph: "Leverage the power of social media to engage with your audience and amplify your brand presence. Our social media management services create compelling content, drive engagement, and build a loyal community around your brand."
+      heading: "Consultancy",
+      paragraph: "Gain valuable insights and strategic guidance for your business with our consultancy services. We conduct in-depth feasibility studies, analyze market trends, and provide expert recommendations to help you formulate unique and profitable concepts for your venture."
     },
     {
       imageUrl: "/problem-solving.png",
-      heading: "Audits & SOP",
-      paragraph: "Maintain consistency and quality across all aspects of your operation with our audits and standard operating procedures (SOP) services. We conduct comprehensive audits and develop tailored SOPs to streamline processes and uphold excellence."
+      heading: "Audits",
+      paragraph: "Enhance the efficiency and performance of your business with our thorough audits. We assess all aspects of your operations, identify areas for improvement, and recommend tailored measures to optimize workflows and achieve greater success."
     },
     {
       imageUrl: "/performance.png",
-      heading: "Dvelopment",
-      paragraph: "Stay ahead of the curve with our development services. Whether it's exploring new concepts, expanding your footprint, or innovating within your existing framework, we provide strategic guidance and support to fuel your growth journey."
+      heading: "Management",
+      paragraph: "Achieve optimum business standards with our comprehensive management services. From handling profit and loss to streamlining back-end and front-end functionalities, we provide expert guidance and support to ensure smooth operations and sustainable growth."
+    },
+    {
+      imageUrl: "/performance.png",
+      heading: "Concept Design",
+      paragraph: "Bring your vision to life with our customized turnkey concept design services. We tailor concepts based on feasibility reports, providing architectural and design support to create unique and captivating spaces that resonate with your target audience."
+    },
+    {
+      imageUrl: "/performance.png",
+      heading: "Architect and Interior",
+      paragraph: "Transform your space into a captivating environment with our architectural and interior design services. Our team offers a wide range of design solutions, from creating construction documents to managing projects, ensuring every detail reflects your brand's identity and enhances the customer experience."
     }
-  ];
+];
+
 
   
 
