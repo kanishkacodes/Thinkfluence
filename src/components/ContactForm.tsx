@@ -141,7 +141,8 @@ import Link from 'next/link'
 function ContactForm() {
   return (
     <div id='contact'>
-      <div className=" my-4  ml-32  md:ml-96 md:pl-72">
+      <div className='grid justify-items-center'>
+      <div className=" my-4">
         <Link href="https://share.hsforms.com/1zBadTPyLTVu585sGj-a5TQcyk5y">
           <Button
             borderRadius="1.75rem"
@@ -150,6 +151,7 @@ function ContactForm() {
             Contact Us
           </Button>
         </Link>
+      </div>
       </div>
     </div>
   )

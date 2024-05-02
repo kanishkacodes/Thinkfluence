@@ -77,7 +77,7 @@ function NewServices() {
               key={index}
               className=" bg-slate-700 bg-opacity-30 rounded-lg overflow-hidden shadow-md hover:bg-slate-900"
             >
-              <div className="relative grid grid-cols-1 pl-24 md:pl-20  items-center mt-3 ">
+              <div className="relative grid grid-cols-1  justify-items-center mt-3 ">
                 <Image
                   src={service.imageUrl}
                   alt={service.heading}
@@ -87,10 +87,10 @@ function NewServices() {
                 />
               </div>
               <div className="p-4">
-                <h2 className="text-lg font-semibold text-white mb-2 ml-2 mr-2">
+                <h2 className="text-lg font-semibold text-white mb-2 ml-2 mr-2 text-wrap ">
                   {service.heading}
                 </h2>
-                <p className="text-sm text-gray-400  text-balance mb-2 ml-2 mr-2">
+                <p className="text-sm text-gray-400   mb-2 ml-2 mr-2 text-wrap ">
                   {service.paragraph}
                 </p>
               </div>
