@@ -24,7 +24,7 @@ function HeroSection() {
         <div className="flex-grow flex flex-col justify-center items-center">
           <div className="py-10 md:py-10"> 
             <Image
-              className="  w-80 md:w-96"
+              className=" w-80 md:w-96 justify-items-center"
               src="/thinkfluecewhite.png"
               alt="Thinkfluence Logo"
               width={300}
@@ -34,13 +34,13 @@ function HeroSection() {
           </div>
           <div className="p-4 relative z-10 w-full text-center md:pt-32">
             <h1 className="mt-4 md:mt-2 text-base md:text-lg font-medium bg-clip-text text-cyan">
-              <div className="px-4 md:px-20">
-              Where Hospitality meets Expertise
+              <div className="px-4 md:px-20 text-2xl justify-items-center">
+              Where Hospitality meets Expertise..
               </div>
             </h1>
           </div>
         </div>
-        <div className="flex flex-col md:flex-row justify-center items-center md:items-end py-8 md:py-16">
+        <div className="flex flex-col md:flex-row justify-center items-center md:items-end py-8 md:py-10">
           <p className="text-sm md:text-base mb-4 md:mb-0">powered by</p>
           <Link href="https://explorex.co/">
             <Image
