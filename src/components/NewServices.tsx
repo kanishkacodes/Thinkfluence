@@ -83,7 +83,7 @@ function NewServices() {
                   alt={service.heading}
                   width={300}
                   height={300}
-                  className="rounded-t-lg p-4 w-36 h-36 "
+                  className="rounded-t-lg p-4 w-36 h-36"
                 />
               </div>
               <div className="p-4">
